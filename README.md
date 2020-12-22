@@ -11,9 +11,13 @@ As a senior data analyst at the company, you've been given access to the complet
 ## Tools Used
 
 Python
+
 MatPlotLib.PyPlot
+
 Pandas
+
 SciPy
+
 NumPy
 
 ## How I Did It
